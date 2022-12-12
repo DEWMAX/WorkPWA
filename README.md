@@ -1,1 +1,1 @@
-https://dewmax.github.io/work_pwa/index.html
+https://dewmax.github.io/WorkPWA/index.html
